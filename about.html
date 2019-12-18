@@ -35,12 +35,12 @@
       </button>
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
-          <li class="nav-item">  <a class="nav-link" href="index.php">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
-          <li class="nav-item">  <a class="nav-link" href="about.php">About us</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="career.php">Career</a></li>
-            <li class="nav-item"> <a class="nav-link js-scroll" href="deep.php"> Our Team</a> </li>
-          <li class="nav-item"> <a class="nav-link js-scroll" href="contact.php">Contact</a> </li>
+          <li class="nav-item">  <a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
+          <li class="nav-item">  <a class="nav-link" href="about.html">About us</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="career.html">Career</a></li>
+            <li class="nav-item"> <a class="nav-link js-scroll" href="deep.html"> Our Team</a> </li>
+          <li class="nav-item"> <a class="nav-link js-scroll" href="contact.html">Contact</a> </li>
         </ul>
       </div>
     </div>
